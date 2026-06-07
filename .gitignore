@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+data/
+*.edf
+.DS_Store
+.vscode/
